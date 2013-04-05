@@ -16,5 +16,11 @@ public class PruebaProy {
         {
             System.out.println(i + " * 2 = " + (i*2));        
         }
+        
+         //Tabla del 3
+        for (int i=1;i<=10;i++)
+        {
+            System.out.println(i + " * 3 = " + (i*3));        
+        }
     }
 }
