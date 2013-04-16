@@ -28,7 +28,7 @@ public class PruebaProy {
         //Tabla del 4
         for (int i=1;i<=10;i++)
         {
-            System.out.println(i + " * 4 = " + (i*z));        
+            System.out.println(i + " * 3 = " + (i*z));        
         }
     }
 }
