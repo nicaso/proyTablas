@@ -14,6 +14,7 @@ public class PruebaProy {
         int x=2;
         int y=3;
         int z=4;
+        int j=5;
         //Tabla del 2
         for (int i=1;i<=10;i++)
         {
@@ -28,7 +29,12 @@ public class PruebaProy {
         //Tabla del 4
         for (int i=1;i<=10;i++)
         {
-            System.out.println(i + " * 3 = " + (i*z));        
+            System.out.println(i + " * 4 = " + (i*z));        
+        }
+        //Tabla del 5
+        for (int i=1;i<=10;i++
+        {
+            System.out.println(i + " * 5 = " + (i*j));
         }
     }
 }
